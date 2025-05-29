@@ -13,6 +13,7 @@ Soy un desarrollador de aplicaciones. Me especializo en **Java**, **Hibernate**,
 ## 📌 Proyectos Destacados
 - **[Sistema de gestión de alquiler de vehículos](Driftorcar)** 🚗 Plataforma integral para alquiler sin oficinas físicas.
 - **[Alicacion de Libreria de Juegos para Android](GameDex)** 📊 Aplicación para administrar juegos.
+-  **[Juego Arcade Pac-Dream](Pac-Dream)**  Juego de Unity Pac-Dream.
 
 ## 📫 Contacto
 📩 hectorvicogarcia@gmail.com  
