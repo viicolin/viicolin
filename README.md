@@ -4,9 +4,9 @@
 Soy un desarrollador de aplicaciones. Me especializo en **Java**, **Hibernate**, **JPA**, y tengo experiencia en el desarrollo de **aplicaciones de gestión y digitalización de negocios**.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes:** Java, SQL, JavaScript, Kodlin
+- **Lenguajes:** Java, SQL, JavaScript, Kodlin, C#
 - **Frameworks:** JavaFX, Hibernate, Spring Boot
-- **Bases de Datos:** MySQL, PostgreSQL
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **Control de Versiones:** Git, GitHub
 - **Otros:** Maven, Regex, Patrones de diseño
 
