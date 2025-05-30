@@ -11,8 +11,8 @@ Soy un desarrollador de aplicaciones especializado en **Java**, **Hibernate** y 
 - **Otros:** Maven, Regex, Patrones de diseño
 
 ## 📌 Proyectos Destacados
-- **[Driftorcar]([#](https://github.com/viicolin/DriftoCar))** 🚗 Sistema de gestión de alquiler de vehículos sin oficinas físicas.
-- **[GameDex]([#](https://github.com/viicolin/GameDex))** 🎮 Aplicación de librería de juegos para Android.
+- **[Driftorcar](https://github.com/viicolin/DriftoCar)** 🚗 Sistema de gestión de alquiler de vehículos sin oficinas físicas.
+- **[GameDex](https://github.com/viicolin/GameDex)** 🎮 Aplicación de librería de juegos para Android.
 - **[Pac-Dream](https://github.com/viicolin/Pac-Dream)** 👻 Juego arcade estilo Pac-Man desarrollado en Unity.
 - **[EntreBicis](https://github.com/viicolin/EntreBicis)** 🚴 Plataforma web y móvil para fomentar la movilidad sostenible mediante rutas en bicicleta, recompensas y panel de gestión para administradores.
 
