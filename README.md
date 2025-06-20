@@ -17,7 +17,7 @@ Soy un desarrollador de aplicaciones especializado en **Java**, **Hibernate** y 
 - **[EntreBicis](https://github.com/viicolin/EntreBicis)** 🚴 Plataforma web y móvil para fomentar la movilidad sostenible mediante rutas en bicicleta, recompensas y panel de gestión para administradores.
 
 ## 📫 Contacto
-📩 hectorvicogarcia@gmail.com  
+📩 vicogarcia2611@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-vico-a50a38252/)
 
 ---
